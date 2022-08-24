@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\travis\source\repos\project2\project2\source.cpp(39): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\travis\source\repos\project2\project2\source.cpp(39): warning C4309: '=': truncation of constant value
+c:\users\travis\source\repos\project2\project2\source.cpp(42): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\travis\source\repos\project2\project2\source.cpp(42): warning C4309: '=': truncation of constant value
+  Project2.vcxproj -> C:\Users\Travis\source\repos\Project2\Debug\Project2.exe
